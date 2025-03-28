@@ -83,3 +83,5 @@ Ben kodu epeyce ilerlettim ve açıklamalar eklemeyi düşünüyorum, her satır
 
 **Soru:** Hocam merhaba bir sey sormak isterim bu sene benim okul bitiyor lakin global ai platformlarindaki egitimleri almaya bootcamplere katilmaya devam edebilir miyim cok istiyorum katilmak ekosisteme dahil olmak
 **Cevap:** Merhabalar, Bootcampler devam edecek tabiki katılabilirsiniz, genel Zulip sunucusunda da istediğiniz gibi sorular sorabilirsiniz ayrıca Youtube kanalında da eğitimlerin videosu bulunmakta yararlanabilirsiniz
+
+
